@@ -17,7 +17,7 @@
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [SQL Coding Challenge](https://github.com/mhanifa97/sql-coding-challenge) | Practice SQL problems & real-world queries | MySQL |
-| | [Excel Capstone Project – Healthcare Insights](https://drive.google.com/drive/folders/1yFssY-kzfjXBQuKtCFHnT6_XdPxPuwJ4?usp=drive_link) | Dashboard & KPI analysis on healthcare dataset | Excel |
+| [Excel Capstone Project – Healthcare Insights](https://drive.google.com/drive/folders/1yFssY-kzfjXBQuKtCFHnT6_XdPxPuwJ4?usp=drive_link) | Dashboard & KPI analysis on healthcare dataset | Excel |
 | [Power BI Sales Dashboard](#) | Visual report of business performance | Power BI |
 
 ---
