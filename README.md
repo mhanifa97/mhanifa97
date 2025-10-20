@@ -27,6 +27,11 @@
 
 ---
 
+🎓  B.Tech in Information Technology | Diploma in Electronics & Communication Engineering
+
+
+---
+
 ### 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/sheik-mohamed-hanifa-m-a060671b) | [Email](mailto:mhanifa97@gmail.com)
 
