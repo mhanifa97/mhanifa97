@@ -12,9 +12,9 @@
 * Identified attrition patterns across departments and age groups
 * Built visualizations using Matplotlib & Seaborn
 
-🔗 https://github.com/mhanifa97/hr-analytics-attrition-python
+🔗[View Project](https://github.com/mhanifa97/hr-analytics-attrition-python)
 
----
+- Helped identify high attrition departments for HR decision-making
 
 ### 🔹 Customer Churn Analysis (SQL)
 
@@ -22,9 +22,9 @@
 * Used JOIN, GROUP BY, and aggregate functions
 * Identified key factors affecting customer retention
 
-🔗 https://github.com/mhanifa97/customer_churn_analysis.sql.
+🔗[View Project](https://github.com/mhanifa97/customer_churn_analysis.sql)
 
----
+- Provided insights to improve customer retention strategies
 
 ### 🔹 HR Analytics Dashboard (Power BI & Excel)
 
@@ -32,9 +32,9 @@
 * Created pivot tables and KPI analysis
 * Built interactive dashboard in Power BI
 
-🔗 https://docs.google.com/document/d/1ajd-hL4BOBidjD7dsPT6jFUGGs4qgCkl/edit?usp=drive_link&ouid=118119261828473652132&rtpof=true&sd=true
+🔗[View Dashboard](https://docs.google.com/document/d/1ajd-hL4BOBidjD7dsPT6jFUGGs4qgCkl/edit?usp=drive_link&ouid=118119261828473652132&rtpof=true&sd=true)
 
----
+- Enabled business users to track KPIs and workforce trends
 
 ## 🛠 Tech Stack
 
