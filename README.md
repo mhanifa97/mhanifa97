@@ -1,4 +1,5 @@
 # Sheik Mohamed Hanifa
+  Passionate Data Analyst focused on solving business problems using data
 
 ## Data Analyst | Python | SQL | Power BI | Excel
 
