@@ -22,7 +22,7 @@
 * Used JOIN, GROUP BY, and aggregate functions
 * Identified key factors affecting customer retention
 
-🔗 https://github.com/mhanifa97/customer_churn_analysis.
+🔗 https://github.com/mhanifa97/customer_churn_analysis.sql.
 
 ---
 
